@@ -50,7 +50,7 @@ Responsive front-end clones of platforms like WhatsApp and YouTube, demonstratin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaanattari&theme=radical&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com/?user=hassaanattari&theme=radical&hide_border=true" alt="GitHub Streak" />
   
   <br><br>
 
