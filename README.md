@@ -55,4 +55,5 @@ Responsive front-end clones of platforms like WhatsApp and YouTube, demonstratin
   <br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaanattari&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hassaanattari&show_icons=true&theme=radical&hide_border=true" alt="Hassaan's GitHub Stats" />
 </div>
