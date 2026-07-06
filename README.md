@@ -50,10 +50,8 @@ Responsive front-end clones of platforms like WhatsApp and YouTube, demonstratin
 ## 📊 GitHub Stats
 
 <div align="center">
- <img src="https://streak-stats.demolab.com/?user=hassaanattari&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaanattari&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHassaan06&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 </div>
